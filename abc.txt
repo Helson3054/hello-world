@@ -6,3 +6,4 @@ This is to be caaaa fsadflklk.
 This is to be caaaa afsdjk.
 This is to test noff.
 This is to test fast-forward.
+This is a test for fast-forward.
