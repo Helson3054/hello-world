@@ -1,17 +1,1 @@
-This ikfjksdfs a test file.
-I want to change to another team.
-I want to eat meat.
-this is in lsz branch.
-This is to be caaaa fsadflklk.
-This is to be caaaa afsdjk.
-This is to test noff.
-This is to test fast-forward.
-This is a test for fast-forward.
-aaaaaaaaaaaaaa
-fasdf
-h
-fsdfsdfkkljk
-fasfkj
-hgfds
-fasfsdg
-gssffsdkfjsdfsdfskfjkkd
+This a test file.
